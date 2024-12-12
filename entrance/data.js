@@ -266,7 +266,7 @@ var APP_DATA = {
   "name": "清水寺720環景",
   "settings": {
     "mouseViewMode": "drag",
-    "autorotateEnabled": false,
+    "autorotateEnabled": true,
     "fullscreenButton": true,
     "viewControlButtons": true
   }
