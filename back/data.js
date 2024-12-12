@@ -259,10 +259,10 @@ var APP_DATA = {
       ]
     }
   ],
-  "name": "清水寺720環景",
+  "name": "back",
   "settings": {
     "mouseViewMode": "drag",
-  "autorotateEnabled": true,
+    "autorotateEnabled": true,
     "fullscreenButton": true,
     "viewControlButtons": true
   }
