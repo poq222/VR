@@ -2,7 +2,7 @@ var APP_DATA = {
   "scenes": [
     {
       "id": "0--",
-      "name": "清水舞台 首頁",
+      "name": "清水寺",
       "levels": [
         {
           "tileSize": 256,
@@ -37,6 +37,6 @@ var APP_DATA = {
     "mouseViewMode": "drag",
     "autorotateEnabled": true,
     "fullscreenButton": true,
-    "viewControlButtons": true,
+    "viewControlButtons": true
   }
 };
