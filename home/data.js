@@ -32,10 +32,10 @@ var APP_DATA = {
       "infoHotspots": []
     }
   ],
-  "name": "home",
+  "name": "清水寺720環景",
   "settings": {
     "mouseViewMode": "drag",
-    "autorotateEnabled": true,
+  "autorotateEnabled": true,
     "fullscreenButton": true,
     "viewControlButtons": true
   }
