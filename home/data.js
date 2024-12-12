@@ -2,7 +2,7 @@ var APP_DATA = {
   "scenes": [
     {
       "id": "0--",
-      "name": "清水寺",
+      "name": "清水舞台 首頁",
       "levels": [
         {
           "tileSize": 256,
