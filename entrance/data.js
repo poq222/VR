@@ -253,14 +253,6 @@ var APP_DATA = {
           "target": "3-"
         }
       ],
-	  "linkHotspots": [
-        {
-          "yaw": -0.5652057207037693,
-          "pitch": 0.0490412722839757,
-          "rotation": 0.7853981633974483,
-          "target": "1-"
-        }
-      ],
       "infoHotspots": [
         {
           "yaw": -0.15479747572327796,
