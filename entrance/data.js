@@ -253,35 +253,7 @@ var APP_DATA = {
           "target": "3-"
         }
       ],
-	    {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        },
-        {
-          "tileSize": 512,
-          "size": 2048
-        },
-        {
-          "tileSize": 512,
-          "size": 4096
-        }
-      ],
-      "faceSize": 3081.5,
-      "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
-      },
-      "linkHotspots": [
+	  "linkHotspots": [
         {
           "yaw": -0.5652057207037693,
           "pitch": 0.0490412722839757,
@@ -289,36 +261,6 @@ var APP_DATA = {
           "target": "1-"
         }
       ],
-      "infoHotspots": []
-    },
-    {
-      "id": "1-",
-      "name": "轟門",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        },
-        {
-          "tileSize": 512,
-          "size": 2048
-        }
-      ],
-      "faceSize": 1344,
-      "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
-      },
       "infoHotspots": [
         {
           "yaw": -0.15479747572327796,
