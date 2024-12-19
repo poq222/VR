@@ -291,7 +291,7 @@ var APP_DATA = {
       ],
       "infoHotspots": []
     },
-{
+    {
       "id": "1-",
       "name": "轟門",
       "levels": [
